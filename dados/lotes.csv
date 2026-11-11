@@ -1,0 +1,11 @@
+id,estabelecimento_id,descricao,quantidade_kg,prazo_aproveitamento,prioridade
+1,1,Paes do dia,2.5,2026-11-11T18:00:00,8
+2,1,Bolos,1.5,2026-11-12T10:00:00,6
+3,2,Frutas variadas,5.0,2026-11-11T20:00:00,9
+4,2,Folhas verdes,3.0,2026-11-11T16:00:00,10
+5,3,Marmitas,4.0,2026-11-11T14:00:00,7
+6,4,Hortalicas,6.0,2026-11-12T08:00:00,5
+7,4,Paes de sal,2.0,2026-11-11T11:00:00,8
+8,5,Paes da padaria isolada,3.0,2026-11-11T18:00:00,10
+9,3,Porcao residual,0.1,2026-11-11T13:00:00,4
+10,2,Banana madura,8.0,2026-11-11T12:00:00,9
